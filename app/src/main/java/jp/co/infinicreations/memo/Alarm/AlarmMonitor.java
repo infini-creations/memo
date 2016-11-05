@@ -28,6 +28,8 @@ public class AlarmMonitor {
 
     public boolean regist(MemoAlarm memo){
 
+        // GitHubテスト
+
         // データ変換
         this.convertDate(memo.getDatetime());
 
